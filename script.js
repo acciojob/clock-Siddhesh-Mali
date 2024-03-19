@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const clockElement = document.getElementById('clock');
+const clockElement = document.getElementById('timer');
 
 function updateClock() {
   const now = new Date();
